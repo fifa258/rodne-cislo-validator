@@ -1,0 +1,8 @@
+[
+{
+  "directory": "F:/student/it2/P2/PRP/plodnecislo/cmake-build-debug",
+  "command": "C:\\mingw\\mingw64\\bin\\gcc.exe -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\plodnecislo.dir\\main.c.obj -c F:\\student\\it2\\P2\\PRP\\plodnecislo\\main.c",
+  "file": "F:/student/it2/P2/PRP/plodnecislo/main.c",
+  "output": "F:/student/it2/P2/PRP/plodnecislo/cmake-build-debug/CMakeFiles/plodnecislo.dir/main.c.obj"
+}
+]
